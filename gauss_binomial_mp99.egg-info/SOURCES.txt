@@ -1,0 +1,11 @@
+README.md
+setup.py
+gauss_binomial_mp99/Binomialdistribution.py
+gauss_binomial_mp99/Gaussiandistribution.py
+gauss_binomial_mp99/Generaldistribution.py
+gauss_binomial_mp99/__init__.py
+gauss_binomial_mp99.egg-info/PKG-INFO
+gauss_binomial_mp99.egg-info/SOURCES.txt
+gauss_binomial_mp99.egg-info/dependency_links.txt
+gauss_binomial_mp99.egg-info/not-zip-safe
+gauss_binomial_mp99.egg-info/top_level.txt
