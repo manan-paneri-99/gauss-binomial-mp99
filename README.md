@@ -58,8 +58,8 @@ Binomial distribution class for calculating and visualizing a Binomial distribut
 
 ```
 >>> bin= Binomial(.45, 78)
->>> bin.mean()
-xyz
+>>> bin.pdf(34)
+0.08798942891783665
 ```
 
 Provides the functionality of adding two Binomial distribution objects with the same probablity.
