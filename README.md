@@ -5,7 +5,7 @@ The package contains methods for performing computations pertaining to Guassian 
 # Files
 
 ## Generaldistribution.py
-The parent class, contains '__init__' and ' read_data_file ' methods.
+The parent class, contains '<__init__>' and '<read_data_file>' methods.
 
 Import:
 ```
@@ -17,11 +17,11 @@ Import:
 ## Gaussiandistribution.py
 Gaussian distribution class for calculating and visualizing a Gaussian distribution. Methods to compute Gaussian distribution features include- 
 
-* 'calculate_mean()': Function to calculate the mean of the data set.
-* 'calculate_stdev()': Function to calculate the standard deviation of the data set.
-* 'plot_histogram()': Function to output a histogram of the instance variable data using matplotlib pyplot library.
-* 'pdf(x)': Probability density function calculator for the gaussian distribution.
-* 'plot_histogram_pdf': Function to plot the normalized histogram of the data and a plot of the probability density function along the same range
+* '<calculate_mean()>': Function to calculate the mean of the data set.
+* '<calculate_stdev()>': Function to calculate the standard deviation of the data set.
+* '<plot_histogram()>': Function to output a histogram of the instance variable data using matplotlib pyplot library.
+* '<pdf(x)>': Probability density function calculator for the gaussian distribution.
+* '<plot_histogram_pdf>': Function to plot the normalized histogram of the data and a plot of the probability density function along the same range
 
 **Default**: *mu*= 0 and *sigma*=1
 * Form: guass(mu, sigma) *
