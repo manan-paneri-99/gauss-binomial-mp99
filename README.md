@@ -5,7 +5,7 @@ The package contains methods for performing computations pertaining to Guassian 
 # Files
 
 ## Generaldistribution.py
-The parent class, contains '<__init__>' and '<read_data_file>' methods.
+The parent class, contains <__init__> and <read_data_file> methods.
 
 Import:
 ```
