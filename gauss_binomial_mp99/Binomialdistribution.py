@@ -14,11 +14,6 @@ class Binomial(Distribution):
         n (int) number of trials
     
     
-    TODO: Fill out all functions below
-            
-    """
-    
-    
     def __init__(self, prob=.5, size=20):
                 
         self.n = size
@@ -134,12 +129,10 @@ class Binomial(Distribution):
         x = []
         y = []
         
-        # calculate the x values to visualize
         for i in range(self.n + 1):
             x.append(i)
             y.append(self.pdf(i))
 
-        # make the plots
         plt.bar(x, y)
         plt.title('Distribution of Outcomes')
         plt.ylabel('Probability')
