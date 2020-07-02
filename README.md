@@ -2,6 +2,9 @@
 Python package for calculating and visualizing Gaussian and Binomial distributions.
 The package contains methods for performing computations pertaining to Guassian and Binomial distributions.
 
+Link to the PyPI project:
+[https://pypi.org/project/gauss-binomial-mp99/](https://pypi.org/project/gauss-binomial-mp99/)
+
 ## Installation
 
 ```
