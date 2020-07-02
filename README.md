@@ -5,7 +5,7 @@ The package contains methods for performing computations pertaining to Guassian 
 ## Installation
 
 ```
->>> pip install gauss-binomial-mp99
+$ pip install gauss-binomial-mp99
 ```
 
 # Files
